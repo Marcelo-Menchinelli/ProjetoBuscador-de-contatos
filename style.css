@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(165, 113, 50);
+
+}
+
+.contact-style {
+    position: relative;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    top: 293px;
+    left: 350px;
+
+}
+
+.contact-style1 {
+    position: relative;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    top: 338px;
+    left: 206px;
+}
